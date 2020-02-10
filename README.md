@@ -8,3 +8,6 @@
  it into a list of strings with only the date.
 
 ## Function 4
+
+## Function 1
+Add ddof=1 to make the standard deviation and variance same as expected output. it easier to use numpy on this function. 
