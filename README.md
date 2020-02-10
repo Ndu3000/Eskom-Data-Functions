@@ -18,4 +18,4 @@ Add ddof=1 to make the standard deviation and variance same as expected output. 
     removing all stop words based on a pre-loaded dictionary, 
     removing url's from the tweets, 
     tokenising a sentence, 
-    and labelling the column for thes  stop words as "Without Stop Words".
+    and labelling the column for the identified strings of stop words as "Without Stop Words".
