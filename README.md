@@ -17,5 +17,5 @@ Add ddof=1 to make the standard deviation and variance same as expected output. 
   The function removes the stop words and the ur link from a tweet by:
     removing all stop words based on a pre-loaded dictionary, 
     removing url's from the tweets, 
-    by tokenising a sentence, 
-    by labelling the column as "Without Stop Words".
+    tokenising a sentence, 
+    and labelling the column for thes  stop words as "Without Stop Words".
