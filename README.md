@@ -4,8 +4,9 @@
 ## Function 1
 The summary statistics are calculated using the following formulae:
 
-<center>$$\mu = \frac{1}{n}\sum_{i=1}^n x_i$$
- 
+<center><img src="https://render.githubusercontent.com/render/math?math=\mu=\frac{1}{n}\sum_{i=1}^n x_i"></center>
+
+
 Where:<br>
 $\mu$ is the mean of the observations<br> 
 $n$ is the total number of observations in the data set, and<br>
