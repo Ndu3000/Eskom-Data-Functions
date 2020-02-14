@@ -4,7 +4,7 @@
 ## Function 1
 The summary statistics are calculated using the following formulae:
 
-<center><img src="https://render.githubusercontent.com/render/math?math=\mu=\frac{1}{n}\sum_{i=1}^n x_i"></center>
+<center><img src="https://render.githubusercontent.com/render/math?math=\mu=\frac{1}{n}\displaystyle\sum_{i=1}^n x_i"></center>
 
 
 Where:<br>
