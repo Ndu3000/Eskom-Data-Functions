@@ -8,9 +8,9 @@ The summary statistics are calculated using the following formulae:
 
 
 Where:<br>
-$\mu$ is the mean of the observations<br> 
-$n$ is the total number of observations in the data set, and<br>
-$x_{i}$ is the observation at $i$
+<img src="https://render.githubusercontent.com/render/math?math=\mu"> is the mean of the observations<br> 
+<img src="https://render.githubusercontent.com/render/math?math=n"> is the total number of observations in the data set, and<br>
+<img src="https://render.githubusercontent.com/render/math?math=x_{i}"> is the observation at <img src="https://render.githubusercontent.com/render/math?math=i">
 
 Add ddof=1 to make the standard deviation and variance same as expected output. it easier to use numpy on this function. 
 
