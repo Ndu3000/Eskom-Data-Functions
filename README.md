@@ -22,6 +22,10 @@ Add ddof=1 to make the standard deviation and variance same as expected output. 
 
 <img src="https://render.githubusercontent.com/render/math?math=\sigma"> is standard deviation
 
+<img src="https://render.githubusercontent.com/render/math?math=X_{max}=max\{\x_1,x_2,x_3,x_4,...,x_n\}"> 
+
+<img src="https://render.githubusercontent.com/render/math?math=X_{min}=min\{\x_1,x_2,x_3,x_4,...,x_n\}">
+
 ## Function 2
  Function takes a list of electricification by province (EBP) data as interger numbers and returns maximum, median, minimum, first quartile and third quartile summary statistics as numerical values that are rounded to two decimal places.
  
