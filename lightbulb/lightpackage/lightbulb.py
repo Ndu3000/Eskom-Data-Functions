@@ -250,7 +250,7 @@ def word_splitter(df):
 ### Function 7
 def stop_words_remover(df):
     
-    """docstring needed"""
+    """ Returns a dataframe with removed english stop words from stop_words_dict{} """
     
     my_tweets = df['Tweets'].apply(lambda x: x.lower().split())
     df["Without Stop Words"] = my_tweets.apply(lambda x: [word for word in x if word not in stop_words_dict['stopwords']])
