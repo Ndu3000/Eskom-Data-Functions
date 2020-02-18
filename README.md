@@ -53,15 +53,16 @@ Function takes a dataframe and returns a modified dataframe with two new columns
 
 ## Function 5: number_of_tweets_per_day
 
-
+Function takes a dataframe and returns a dataframe including dates as the index and total number of tweets per date. Input must contain columns named "Tweets" and "Date".
 
 ## Function 6: word_splitter
 
 Function takes a dataframe and returns a modified dataframe with one additional column of tokenized tweets named "Split Tweets". Input must contain a column named "Tweets".
 
 ## Function 7: stop_words_remover
-  The function removes the stop words and the ur link from a tweet by:
-    removing all stop words based on a pre-loaded dictionary, 
-    removing url's from the tweets, 
-    tokenising a sentence, 
-    and labelling the column for the identified strings of stop words as "Without Stop Words".
+
+The function removes the stop words and the ur link from a tweet by:
+    (1) removing all stop words based on a pre-loaded dictionary, 
+    (2) removing url's from the tweets, 
+    (3) tokenising a sentence, 
+    (4) and labelling the column for the identified strings of stop words as "Without Stop Words".
