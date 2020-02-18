@@ -34,8 +34,10 @@ Add ddof=1 to make the standard deviation and variance same as expected output. 
 <center><img src="https://render.githubusercontent.com/render/math?math=\sigma=\sqrt{\frac{\displaystyle\sum_{i=1}^n (x_{i}-\bar{x})^2}{n-1}}"></center>
 
 <img src="https://render.githubusercontent.com/render/math?math=\sigma"> is standard deviation
+<img src="https://render.githubusercontent.com/render/math?math=\sigma"> is the standard deviation
 
 <img src="https://render.githubusercontent.com/render/math?math=X_{max}=max\{\x_1,x_2,x_3,x_4,...,x_n\}"> 
+<img src="https://render.githubusercontent.com/render/math?math=X_{max}=max\{\x_1,x_2,x_3,x_4,...,x_n\}"><br> 
 
 <img src="https://render.githubusercontent.com/render/math?math=X_{min}=min\{\x_1,x_2,x_3,x_4,...,x_n\}">
 
