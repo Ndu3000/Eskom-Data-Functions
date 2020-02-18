@@ -33,7 +33,13 @@ Add ddof=1 to make the standard deviation and variance same as expected output. 
  Function takes a list of datetime strings and converts
  it into a list of strings with only the date.
 
-## Function 4
+## Function 4: extract_municipality_hashtags
+
+Function takes a dataframe and returns a modified dataframe with two new columns appended, "municipality" and "hashtags". Input must contain a column named "Tweets". Information is extracted from twitter data that includes the municipality and the list of hashtags referred to in each tweet, respectively. 
+
+## Function 6: word_splitter
+
+Function takes a dataframe and returns a modified dataframe with one additional column of tokenized tweets named "Split Tweets". Input must contain a column named "Tweets".
 
 ## Function 7
   The function removes the stop words and the ur link from a tweet by:
