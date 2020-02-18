@@ -8,7 +8,7 @@ setup(
     description='EDSA functions to generate various metrics python package',
     long_description=open('README.md').read(),
     install_requires=['numpy', 'pandas'],
-    url='https://github.com/<username>/<package-name>',
-    author='<Your Name>',
-    author_email='<Your Email>'
+    url='https://github.com/Ndu3000/Eskom-Data-Functions/tree/master/lightbulb', 
+    author='Selebogo Mosoeu, Nompilo Nhlabathi, Caryn Pialat, Nduduzo Phili',
+    author_email='scmosoeu@gmail.com, nompilomapilos@gmail.com, caryn.oates@gmail.com, nduduzo.phili@gmail.com'
 )
