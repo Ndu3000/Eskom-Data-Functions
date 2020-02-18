@@ -66,3 +66,12 @@ The function removes the stop words and the ur link from a tweet by:
     (2) removing url's from the tweets, 
     (3) tokenising a sentence, 
     (4) and labelling the column for the identified strings of stop words as "Without Stop Words".
+
+## Authors
+
+* Caryn Pialat
+
+
+
+
+
