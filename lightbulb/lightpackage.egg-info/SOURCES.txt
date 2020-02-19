@@ -1,0 +1,9 @@
+README.md
+setup.py
+lightpackage/__init__.py
+lightpackage/lightbulb.py
+lightpackage.egg-info/PKG-INFO
+lightpackage.egg-info/SOURCES.txt
+lightpackage.egg-info/dependency_links.txt
+lightpackage.egg-info/requires.txt
+lightpackage.egg-info/top_level.txt
