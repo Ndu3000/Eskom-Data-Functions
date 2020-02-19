@@ -79,16 +79,16 @@ stop_words_dict = {
 
 assert lb.dictionary_of_metrics(gauteng) == {'mean': 26244.42,
                                    'median': 24403.5,
-                                   'variance': 108160153.17,
-                                   'standard deviation': 10400.01,
+                                   'var': 108160153.17,
+                                   'std': 10400.01,
                                    'min': 8842.0,
                                    'max': 39660.0}, 'incorrect'
 
 assert lb.five_num_summary(gauteng) == {'max': 39660.0,
                                     'median': 24403.5,
                                     'min': 8842.0,
-                                    'q1': 18576.0,
-                                    'q3': 36720.0}, 'incorrect'
+                                    'q1': 18653.0,
+                                    'q3': 36372.0}, 'incorrect'
 
 assert lb.date_parser(dates[:3]) == ['2019-11-29', '2019-11-29', '2019-11-29'], 'incorrect'
 assert lb.date_parser(dates[-3:]) == ['2019-11-20', '2019-11-20', '2019-11-20'], 'incorrect'
