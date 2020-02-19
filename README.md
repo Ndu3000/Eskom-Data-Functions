@@ -82,6 +82,9 @@ Function takes a dataframe and returns a modified dataframe with one additional 
 * Caryn Pialat
 * Nduduzo Phili
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
 ## Acknowledgements
 
 The authors thank Joanne Moonsamy for all the support, advice and expertise given throughout the development of this package.
