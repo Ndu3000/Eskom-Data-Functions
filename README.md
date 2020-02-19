@@ -33,12 +33,11 @@ Add ddof=1 to make the standard deviation and variance same as expected output. 
 
 <center><img src="https://render.githubusercontent.com/render/math?math=s=\sqrt{\frac{\displaystyle\sum_{i=1}^n (x_{i}-\bar{x})^2}{n-1}}"></center>
 
-<img src="https://render.githubusercontent.com/render/math?math=s"> is standard deviation
 <img src="https://render.githubusercontent.com/render/math?math=s"> is the standard deviation
 
 <img src="https://render.githubusercontent.com/render/math?math=X_{max}=max\{\x_1,x_2,x_3,x_4,...,x_n\}"><br> 
 <img src="https://render.githubusercontent.com/render/math?math=X_{min}=min\{\x_1,x_2,x_3,x_4,...,x_n\}"><br>
-Where <img src="https://render.githubusercontent.com/render/math?math=X_{max}"> and <img src="https://render.githubusercontent.com/render/math?math=X_{min}"> are the maximum value and minimum value of a list respectively.
+Where <img src="https://render.githubusercontent.com/render/math?math=X_{max}"> and <img src="https://render.githubusercontent.com/render/math?math=X_{min}"> are the maximum value and minimum value of a list of length <img src="https://render.githubusercontent.com/render/math?math=n"> respectively.
 
 
 
