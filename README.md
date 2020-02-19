@@ -31,8 +31,6 @@ Where:<br>
 <img src="https://render.githubusercontent.com/render/math?math=n"> is the total number of observations in the data set, and<br>
 <img src="https://render.githubusercontent.com/render/math?math=x_{i}"> is the observation at <img src="https://render.githubusercontent.com/render/math?math=i">
 
-Add ddof=1 to make the standard deviation and variance same as expected output. it easier to use numpy on this function. 
-
 <center><img src="https://render.githubusercontent.com/render/math?math=\s^2=\frac{\displaystyle\sum_{i=1}^n (x_{i}-\bar{x})^2}{n-1}"></center><br>
 
 <img src="https://render.githubusercontent.com/render/math?math=s^2"> is the variance
