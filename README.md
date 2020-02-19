@@ -7,11 +7,11 @@ python setup.py sdist
 
 ## Installing this package from GitHub
 
-pip install git+https://github.com/Ndu3000/Eskom-Data-Functions/tree/master/lightbulb
+pip install git+https://github.com/Ndu3000/Eskom-Data-Functions.git
 
 ## Updating this package from GitHub
 
-pip install --upgrade git+https://github.com/Ndu3000/Eskom-Data-Functions/tree/master/lightbulb
+pip install --upgrade git+https://github.com/Ndu3000/Eskom-Data-Functions.git
 
 ## Function 1: dictionary_of_metrics
 
