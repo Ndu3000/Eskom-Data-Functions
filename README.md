@@ -6,13 +6,19 @@
 python setup.py sdist
 
 ## Installing this package from GitHub
-
+```bash
 pip install git+https://github.com/Ndu3000/Eskom-Data-Functions.git
-
+```
 ## Updating this package from GitHub
-
+```bash
 pip install --upgrade git+https://github.com/Ndu3000/Eskom-Data-Functions.git
+```
+## Usage
+```python
+from lightpackage import lightbulb as lb
 
+lb.five_num_summary([1,2,3,4,5]) # returns {'max': 5, 'median': 3.0, 'min': 1, 'q1': 2.0, 'q3': 4.0} 
+```
 ## Function 1: dictionary_of_metrics
 
 The summary statistics are calculated using the following formulae:
